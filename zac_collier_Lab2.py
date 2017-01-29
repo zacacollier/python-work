@@ -3,7 +3,7 @@ prompt = input('What units of measurement would you like to convert?\n\
     \n[2]: Fahrenheit to Celsius\
     \n[3]: Gallons to liters\
     \n[4]: Pounds to kilograms\
-    \n[5]: Inches to centimeters\
+    \n[5]: Inches to centimeters\n\
     \nEnter your selection: ')
 
 if int(prompt) > 5:
